@@ -26,7 +26,7 @@
 - 🤝 &nbsp; I’m looking to collaborate on interesting projects focused on blockchain and AI
 - 🌱 &nbsp; I’m currently learning Python 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 
 ## My Tech Stack
