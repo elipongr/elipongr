@@ -2,12 +2,18 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/elipongr" alt="profile views">
+  !links!
 </p>
 
 <br/>
 !Joined Github **4** years ago.!
+<br/>
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Coming soon...
+
+
+## Portfolio
+> *pending...*
 
 ## My Tech Stack
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
@@ -32,14 +38,7 @@
 
 !Commit stats!
 
-## Portfolio
-> *pending...*
 
-## Reach Me
-<a href="https://www.linkedin.com/in/elizarpongracz">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:elizarpongracz@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+### 🎧 Spotify Playing
 
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ownedbypeli)
