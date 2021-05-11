@@ -7,8 +7,6 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="(https://user-images.githubusercontent.com/36076242/117864443-18bf6600-b295-11eb-85b8-c164805f940a.gif" width="500" height="320" />
-
 !Joined Github **4** years ago.!
 
 <br/>
