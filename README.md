@@ -6,11 +6,12 @@
 </p>
 
 <br/>
+
 !Joined Github **4** years ago.!
+
 <br/>
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Coming soon...
-
+> *<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> pending...*
 
 ## Portfolio
 > *pending...*
