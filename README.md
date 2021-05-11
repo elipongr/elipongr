@@ -1,15 +1,14 @@
-<p>Logo</p>
+# Elizar Pongracz
 
-<p align="center">
-  <img src="https://badges.pufler.dev/years/elipongr" alt="Years">
-  <img src="https://badges.pufler.dev/repos/elipongr" alt="Years">
-  <img src="https://gpvc.arturio.dev/elipongr" alt="profile views">
-  !links!
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3FB3F7&size=30&vCenter=true&multiline=true&width=600&lines=Full-stack+web+and+app+developer++;Done+software+engineering+EFZ+++;Studying+computer+science+++;Loving+new+technologies+++)](https://git.io/typing-svg)
 <br/>
 
-!Joined Github **4** years ago.!
+<p>
+   <img src="https://badges.pufler.dev/years/elipongr">
+  <img src="https://badges.pufler.dev/repos/elipongr">
+  <img src="https://gpvc.arturio.dev/elipongr" alt="profile views">
+</p>
+
 
 <br/>
 
