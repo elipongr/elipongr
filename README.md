@@ -5,6 +5,7 @@
 </p>
 
 <br/>
+!Joined Github **4** years ago.!
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Coming soon...
 
@@ -32,7 +33,7 @@
 !Commit stats!
 
 ## Portfolio
-<p>Coming soon....</p>
+> *pending...*
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/elizarpongracz">
