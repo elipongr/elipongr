@@ -5,7 +5,9 @@
 
 <p>
    <img src="https://badges.pufler.dev/years/elipongr">
+   &nbsp;
   <img src="https://badges.pufler.dev/repos/elipongr">
+   &nbsp;
   <img src="https://gpvc.arturio.dev/elipongr" alt="profile views">
 </p>
 
