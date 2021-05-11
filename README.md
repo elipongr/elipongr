@@ -16,6 +16,19 @@
 ## Portfolio
 > *pending...*
 
+
+
+## 🧐 More About Me:
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/elipongr/elipongr/main/code.gif" height="200px" width="360px"/>
+
+- 🔭 &nbsp; I’m currently working on **Swissgrid STA**
+- 🤝 &nbsp; I’m looking to collaborate on interesting projects focused on blockchain and AI
+- 🌱 &nbsp; I’m currently learning Python 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+
+
 ## My Tech Stack
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
 
