@@ -1,6 +1,8 @@
 <p>Logo</p>
 
 <p align="center">
+  <img src="https://badges.pufler.dev/years/elipongr" alt="Years">
+  <img src="https://badges.pufler.dev/repos/elipongr" alt="Years">
   <img src="https://gpvc.arturio.dev/elipongr" alt="profile views">
   !links!
 </p>
