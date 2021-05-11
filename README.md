@@ -40,6 +40,6 @@
 !Commit stats!
 
 
-### 🎧 Spotify Playing
+## 🎧 Spotify Playing
 
 [![Spotify](https://spotify-now-playing-elipongr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ownedbypeli)
