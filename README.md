@@ -1,6 +1,6 @@
 # Elizar Pongracz
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3FB3F7&size=30&vCenter=true&multiline=true&width=600&lines=Full-stack+web+and+app+developer++;Done+software+engineering+EFZ+++;Studying+computer+science+++;Loving+new+technologies+++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3FB3F7&size=30&vCenter=true&width=600&lines=Full-stack+web+and+app+developer;Done+software+engineering+EFZ;Studying+computer+science;Loving+new+technologies;Crypto+is+the+future)](https://git.io/typing-svg)
 <br/>
 
 <p>
