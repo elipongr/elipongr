@@ -1,8 +1,12 @@
 <p>Logo</p>
 
+<p align="center">
+  <img src="https://gpvc.arturio.dev/elipongr" alt="profile views">
+</p>
+
 <br/>
 
-<p>Coming soon...</p>
+Coming soon...
 
 ## My Tech Stack
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
