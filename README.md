@@ -1,5 +1,3 @@
-![code](https://user-images.githubusercontent.com/36076242/117864443-18bf6600-b295-11eb-85b8-c164805f940a.gif)
-
 <p>Logo</p>
 
 <p align="center">
