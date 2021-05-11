@@ -41,4 +41,4 @@
 
 ### 🎧 Spotify Playing
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ownedbypeli)
+[![Spotify](https://https://spotify-now-playing-elipongr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ownedbypeli)
