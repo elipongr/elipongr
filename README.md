@@ -23,6 +23,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=%232c3e50&color=%232c3e50)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
 
+## Github Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elipongr&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=elipongr&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
+</p>
+
 ## Portfolio
 <p>Coming soon....</p>
 
