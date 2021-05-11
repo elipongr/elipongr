@@ -6,7 +6,7 @@
 
 <br/>
 
-Coming soon...
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Coming soon...
 
 ## My Tech Stack
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node.js)
