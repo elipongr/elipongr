@@ -53,9 +53,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=elipongr&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
 </p>
 
-!Commit stats!
-
-
 ## 🎧 Spotify Playing
 
 [![Spotify](https://spotify-now-playing-elipongr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ownedbypeli)
